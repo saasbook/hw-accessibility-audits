@@ -183,6 +183,10 @@ Setup axe-matches in your specs. Create a `specs/accessbiliy_spec.rb` or `featur
 
 **Submission: For this section, include a spec and snippests of code that show how you plugged things together. Include a link to a CI run.**
 
+**Answer the following questions:**
+> What do you think you've learned so far? How was your experience testing and fixing the feedback? Do you have any major "take-aways" from trying this out?
+
+
 # Submission Instructions
 
 Write your feedback in a document. **This is a group assignment.** You should put your name and answer for each section when the questions are individual. For example, you must all try using a screen reader.
@@ -211,6 +215,7 @@ Write your feedback in a document. **This is a group assignment.** You should pu
 > How did you address it?
 > In your report, include a sample of before-and-after code.
 
+> What do you think you've learned so far? How was your experience testing and fixing the feedback? Do you have any major "take-aways" from trying this out?
 
 ## 2. Submit you entire app code along with your document
 
@@ -221,9 +226,9 @@ Write your feedback in a document. **This is a group assignment.** You should pu
 * https://a11yproject.com/
 * http://w3c.github.io/aria-practices/
 * https://github.com/brunopulis/awesome-a11y
-* webaim
-* Bay Area a11y Meetup
-* a11y weekly
+* [WebAIM](http://webaim.org)
+* Bay Area a11y Meetup https://www.meetup.com/a11ybay/
+* a11y weekly https://a11yweekly.com
 
 
 # Where To Go From Here...
